@@ -1,0 +1,6 @@
+# slabcraft:horizon/set_marker
+
+execute align xyz positioned ~0.5 ~ ~0.5 if block ~ ~ ~ #slabcraft:horizon_slab[type=top] unless entity @e[tag=sc_horizon_slab,distance=..0.5,tag=sc_top_horizon_slab] run function slabcraft:horizon/set_marker/top
+execute align xyz positioned ~0.5 ~ ~0.5 if block ~ ~ ~ #slabcraft:horizon_slab[type=bottom] unless entity @e[tag=sc_horizon_slab,distance=..0.5,tag=sc_bottom_horizon_slab] run function slabcraft:horizon/set_marker/bottom
+execute align xyz positioned ~0.5 ~ ~0.5 if block ~ ~ ~ #slabcraft:horizon_slab[type=double] if entity @e[tag=sc_horizon_slab,distance=..0.5,tag=sc_bottom_horizon_slab] unless entity @e[tag=sc_horizon_slab,distance=..0.5,tag=sc_top_horizon_slab] run function slabcraft:horizon/set_marker/top
+execute align xyz positioned ~0.5 ~ ~0.5 if block ~ ~ ~ #slabcraft:horizon_slab[type=double] if entity @e[tag=sc_horizon_slab,distance=..0.5,tag=sc_top_horizon_slab] unless entity @e[tag=sc_horizon_slab,distance=..0.5,tag=sc_bottom_horizon_slab] run function slabcraft:horizon/set_marker/bottom

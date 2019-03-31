@@ -1,0 +1,8 @@
+{
+    "parent": "slabcraft:verticle_slab/front/bordered",
+    "textures": {
+        "bottom": "minecraft:block/stone_slab_top",
+        "top": "minecraft:block/stone_slab_top",
+        "side": "minecraft:block/stone_slab_top"
+    }
+}

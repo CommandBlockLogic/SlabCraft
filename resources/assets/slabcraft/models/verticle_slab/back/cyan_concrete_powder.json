@@ -1,0 +1,8 @@
+{
+    "parent": "slabcraft:verticle_slab/back_parent",
+    "textures": {
+        "bottom": "minecraft:block/cyan_concrete_powder",
+        "top": "minecraft:block/cyan_concrete_powder",
+        "side": "minecraft:block/cyan_concrete_powder"
+    }
+}

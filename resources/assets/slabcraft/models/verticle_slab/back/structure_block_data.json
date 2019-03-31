@@ -1,0 +1,8 @@
+{
+    "parent": "slabcraft:verticle_slab/back_parent",
+    "textures": {
+        "bottom": "minecraft:block/structure_block_data",
+        "top": "minecraft:block/structure_block_data",
+        "side": "minecraft:block/structure_block_data"
+    }
+}

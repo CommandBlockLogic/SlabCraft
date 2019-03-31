@@ -1,0 +1,21 @@
+{
+    "display": {
+        "announce_to_chat": false,
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:barrier"
+        },
+        "show_toast": false,
+        "title": ""
+    },
+    "criteria": {
+        "offhand_changed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {}
+        }
+    },
+    "rewards": {
+        "function": "slabcraft:get_texture"
+    }
+}

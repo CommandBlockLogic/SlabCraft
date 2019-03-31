@@ -1,0 +1,25 @@
+{
+    "display": {
+        "announce_to_chat": false,
+        "description": "",
+        "hidden": true,
+        "icon": {
+            "item": "minecraft:barrier"
+        },
+        "show_toast": false,
+        "title": ""
+    },
+    "criteria": {
+        "placed_horizon_slab": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:stone_slab"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "slabcraft:horizon/place"
+    }
+}

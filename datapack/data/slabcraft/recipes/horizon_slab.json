@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "#": {
+            "tag": "slabcraft:cubes"
+        }
+    },
+    "pattern": [
+        "###"
+    ],
+    "result": {
+        "item": "minecraft:stone_slab",
+        "count": 6
+    }
+}

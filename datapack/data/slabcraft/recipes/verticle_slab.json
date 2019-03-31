@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "#": {
+            "tag": "slabcraft:cubes"
+        }
+    },
+    "pattern": [
+        "#",
+        "#",
+        "#"
+    ],
+    "result": {
+        "item": "minecraft:birch_slab",
+        "count": 6
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "slabcraft:horizon_slab/bottom_parent",
+    "textures": {
+        "bottom": "minecraft:block/bubble_coral_block",
+        "top": "minecraft:block/bubble_coral_block",
+        "side": "minecraft:block/bubble_coral_block"
+    }
+}

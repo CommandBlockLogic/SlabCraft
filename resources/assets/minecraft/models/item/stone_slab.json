@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "slabcraft:parent",
+        "top": "slabcraft:parent",
+        "side": "slabcraft:parent"
+    }
+}

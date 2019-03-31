@@ -1,0 +1,25 @@
+{
+  "block.minecraft.acacia_slab": "\u00A7c已移除",
+  "block.minecraft.birch_slab": "\u00A7b垂直台阶",
+  "block.minecraft.sandstone_slab": "\u00A7c已移除",
+  "block.minecraft.red_sandstone_slab": "\u00A7c已移除",
+  "block.minecraft.petrified_oak_slab": "\u00A7c已移除",
+  "block.minecraft.cobblestone_slab": "\u00A7c已移除",
+  "block.minecraft.brick_slab": "\u00A7c已移除",
+  "block.minecraft.stone_slab": "\u00A7b水平台阶",
+  "block.minecraft.stone_brick_slab": "\u00A7c已移除",
+  "block.minecraft.nether_brick_slab": "\u00A7c已移除",
+  "block.minecraft.quartz_slab": "\u00A7c已移除",
+  "block.minecraft.oak_slab": "\u00A7c已移除",
+  "block.minecraft.spruce_slab": "\u00A7c已移除",
+  "block.minecraft.jungle_slab": "\u00A7c已移除",
+  "block.minecraft.dark_oak_slab": "\u00A7c已移除",
+  "block.minecraft.dark_prismarine_slab": "\u00A7c已移除",
+  "block.minecraft.prismarine_slab": "\u00A7c已移除",
+  "block.minecraft.prismarine_brick_slab": "\u00A7c已移除",
+  "block.minecraft.purpur_slab": "\u00A7c已移除",
+
+  "slabcraft.loaded": "\u00A7a已加载！",
+  "slabcraft.unloaded": "\u00A7c已卸载！",
+  "slabcraft.try_placing_slab_without_texture": "\u00A7c请在副手中放置立方体状的方块"
+}

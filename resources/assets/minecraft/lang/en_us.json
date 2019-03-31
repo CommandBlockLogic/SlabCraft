@@ -1,0 +1,25 @@
+{
+  "block.minecraft.acacia_slab": "\u00A7cRemoved",
+  "block.minecraft.birch_slab": "\u00A7bVerticle Slab",
+  "block.minecraft.stone_slab": "\u00A7bHorizon Slab",
+  "block.minecraft.sandstone_slab": "\u00A7cRemoved",
+  "block.minecraft.red_sandstone_slab": "\u00A7cRemoved",
+  "block.minecraft.petrified_oak_slab": "\u00A7cRemoved",
+  "block.minecraft.cobblestone_slab": "\u00A7cRemoved",
+  "block.minecraft.brick_slab": "\u00A7cRemoved",
+  "block.minecraft.stone_brick_slab": "\u00A7cRemoved",
+  "block.minecraft.nether_brick_slab": "\u00A7cRemoved",
+  "block.minecraft.quartz_slab": "\u00A7cRemoved",
+  "block.minecraft.oak_slab": "\u00A7cRemoved",
+  "block.minecraft.spruce_slab": "\u00A7cRemoved",
+  "block.minecraft.jungle_slab": "\u00A7cRemoved",
+  "block.minecraft.dark_oak_slab": "\u00A7cRemoved",
+  "block.minecraft.dark_prismarine_slab": "\u00A7cRemoved",
+  "block.minecraft.prismarine_slab": "\u00A7cRemoved",
+  "block.minecraft.prismarine_brick_slab": "\u00A7cRemoved",
+  "block.minecraft.purpur_slab": "\u00A7cRemoved",
+
+  "slabcraft.loaded": "\u00A7aLoaded!",
+  "slabcraft.unloaded": "\u00A7cUnloaded!",
+  "slabcraft.try_placing_slab_without_texture": "\u00A7cPlease set a cube in your offhand."
+}

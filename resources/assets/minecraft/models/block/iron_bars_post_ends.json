@@ -1,0 +1,8 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "slabcraft:alpha",
+        "edge": "block/iron_bars"
+    },
+    "elements": []
+}

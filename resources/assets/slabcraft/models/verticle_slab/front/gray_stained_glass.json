@@ -1,0 +1,8 @@
+{
+    "parent": "slabcraft:verticle_slab/front/bordered",
+    "textures": {
+        "bottom": "minecraft:block/gray_stained_glass",
+        "top": "minecraft:block/gray_stained_glass",
+        "side": "minecraft:block/gray_stained_glass"
+    }
+}

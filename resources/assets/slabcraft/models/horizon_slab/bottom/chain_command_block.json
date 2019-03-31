@@ -1,0 +1,8 @@
+{
+    "parent": "slabcraft:horizon_slab/bottom_parent",
+    "textures": {
+        "bottom": "minecraft:block/chain_command_block_back",
+        "top": "minecraft:block/chain_command_block_front",
+        "side": "minecraft:block/chain_command_block_side"
+    }
+}

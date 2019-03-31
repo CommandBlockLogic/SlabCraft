@@ -1,0 +1,5636 @@
+{
+    "$author": "SPGoding with VSCode",
+    "$comments": {
+        "diamond_sword_max_durability": 1561
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0
+            },
+            "model": "minecraft:item/diamond_sword_vanilla"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0006406149903907751
+            },
+            "model": "slabcraft:horizon_slab/bottom/acacia_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0012812299807815502
+            },
+            "model": "slabcraft:horizon_slab/bottom/acacia_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0019218449711723255
+            },
+            "model": "slabcraft:horizon_slab/bottom/acacia_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0025624599615631004
+            },
+            "model": "slabcraft:horizon_slab/bottom/andesite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0032030749519538757
+            },
+            "model": "slabcraft:horizon_slab/bottom/bedrock"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.003843689942344651
+            },
+            "model": "slabcraft:horizon_slab/bottom/birch_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.004484304932735426
+            },
+            "model": "slabcraft:horizon_slab/bottom/birch_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.005124919923126201
+            },
+            "model": "slabcraft:horizon_slab/bottom/birch_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.005765534913516977
+            },
+            "model": "slabcraft:horizon_slab/bottom/black_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0064061499039077515
+            },
+            "model": "slabcraft:horizon_slab/bottom/black_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.007046764894298526
+            },
+            "model": "slabcraft:horizon_slab/bottom/black_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.007687379884689302
+            },
+            "model": "slabcraft:horizon_slab/bottom/black_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.008327994875080076
+            },
+            "model": "slabcraft:horizon_slab/bottom/black_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.008968609865470852
+            },
+            "model": "slabcraft:horizon_slab/bottom/black_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.009609224855861628
+            },
+            "model": "slabcraft:horizon_slab/bottom/blue_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.010249839846252402
+            },
+            "model": "slabcraft:horizon_slab/bottom/blue_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.010890454836643177
+            },
+            "model": "slabcraft:horizon_slab/bottom/blue_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.011531069827033953
+            },
+            "model": "slabcraft:horizon_slab/bottom/blue_ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.012171684817424727
+            },
+            "model": "slabcraft:horizon_slab/bottom/blue_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.012812299807815503
+            },
+            "model": "slabcraft:horizon_slab/bottom/blue_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.013452914798206279
+            },
+            "model": "slabcraft:horizon_slab/bottom/blue_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.014093529788597053
+            },
+            "model": "slabcraft:horizon_slab/bottom/bone_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.014734144778987828
+            },
+            "model": "slabcraft:horizon_slab/bottom/bookshelf"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.015374759769378604
+            },
+            "model": "slabcraft:horizon_slab/bottom/brain_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.016015374759769378
+            },
+            "model": "slabcraft:horizon_slab/bottom/bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.016655989750160152
+            },
+            "model": "slabcraft:horizon_slab/bottom/brown_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01729660474055093
+            },
+            "model": "slabcraft:horizon_slab/bottom/brown_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.017937219730941704
+            },
+            "model": "slabcraft:horizon_slab/bottom/brown_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.018577834721332478
+            },
+            "model": "slabcraft:horizon_slab/bottom/brown_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.019218449711723255
+            },
+            "model": "slabcraft:horizon_slab/bottom/brown_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.01985906470211403
+            },
+            "model": "slabcraft:horizon_slab/bottom/brown_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.020499679692504803
+            },
+            "model": "slabcraft:horizon_slab/bottom/brown_mushroom_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.02114029468289558
+            },
+            "model": "slabcraft:horizon_slab/bottom/bubble_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.021780909673286355
+            },
+            "model": "slabcraft:horizon_slab/bottom/carved_pumpkin"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.02242152466367713
+            },
+            "model": "slabcraft:horizon_slab/bottom/chain_command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.023062139654067906
+            },
+            "model": "slabcraft:horizon_slab/bottom/chain_command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.02370275464445868
+            },
+            "model": "slabcraft:horizon_slab/bottom/chiseled_quartz_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.024343369634849454
+            },
+            "model": "slabcraft:horizon_slab/bottom/chiseled_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.024983984625240232
+            },
+            "model": "slabcraft:horizon_slab/bottom/chiseled_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.025624599615631006
+            },
+            "model": "slabcraft:horizon_slab/bottom/chiseled_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.02626521460602178
+            },
+            "model": "slabcraft:horizon_slab/bottom/clay"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.026905829596412557
+            },
+            "model": "slabcraft:horizon_slab/bottom/coal_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.02754644458680333
+            },
+            "model": "slabcraft:horizon_slab/bottom/coal_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.028187059577194105
+            },
+            "model": "slabcraft:horizon_slab/bottom/coarse_dirt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.028827674567584883
+            },
+            "model": "slabcraft:horizon_slab/bottom/cobblestone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.029468289557975657
+            },
+            "model": "slabcraft:horizon_slab/bottom/command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03010890454836643
+            },
+            "model": "slabcraft:horizon_slab/bottom/command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03074951953875721
+            },
+            "model": "slabcraft:horizon_slab/bottom/cracked_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03139013452914798
+            },
+            "model": "slabcraft:horizon_slab/bottom/crafting_table"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.032030749519538756
+            },
+            "model": "slabcraft:horizon_slab/bottom/cut_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03267136450992953
+            },
+            "model": "slabcraft:horizon_slab/bottom/cut_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.033311979500320305
+            },
+            "model": "slabcraft:horizon_slab/bottom/cyan_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.033952594490711085
+            },
+            "model": "slabcraft:horizon_slab/bottom/cyan_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03459320948110186
+            },
+            "model": "slabcraft:horizon_slab/bottom/cyan_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.035233824471492634
+            },
+            "model": "slabcraft:horizon_slab/bottom/cyan_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03587443946188341
+            },
+            "model": "slabcraft:horizon_slab/bottom/cyan_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03651505445227418
+            },
+            "model": "slabcraft:horizon_slab/bottom/cyan_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.037155669442664956
+            },
+            "model": "slabcraft:horizon_slab/bottom/dark_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03779628443305574
+            },
+            "model": "slabcraft:horizon_slab/bottom/dark_oak_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03843689942344651
+            },
+            "model": "slabcraft:horizon_slab/bottom/dark_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.039077514413837285
+            },
+            "model": "slabcraft:horizon_slab/bottom/dark_prismarine"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.03971812940422806
+            },
+            "model": "slabcraft:horizon_slab/bottom/dead_brain_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04035874439461883
+            },
+            "model": "slabcraft:horizon_slab/bottom/dead_bubble_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04099935938500961
+            },
+            "model": "slabcraft:horizon_slab/bottom/dead_fire_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04163997437540039
+            },
+            "model": "slabcraft:horizon_slab/bottom/dead_horn_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04228058936579116
+            },
+            "model": "slabcraft:horizon_slab/bottom/dead_tube_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.042921204356181936
+            },
+            "model": "slabcraft:horizon_slab/bottom/diamond_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04356181934657271
+            },
+            "model": "slabcraft:horizon_slab/bottom/diamond_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.044202434336963484
+            },
+            "model": "slabcraft:horizon_slab/bottom/diorite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04484304932735426
+            },
+            "model": "slabcraft:horizon_slab/bottom/dirt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04548366431774504
+            },
+            "model": "slabcraft:horizon_slab/bottom/emerald_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04612427930813581
+            },
+            "model": "slabcraft:horizon_slab/bottom/emerald_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04676489429852659
+            },
+            "model": "slabcraft:horizon_slab/bottom/end_stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04740550928891736
+            },
+            "model": "slabcraft:horizon_slab/bottom/end_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.048046124279308135
+            },
+            "model": "slabcraft:horizon_slab/bottom/fire_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04868673926969891
+            },
+            "model": "slabcraft:horizon_slab/bottom/furnace"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.04932735426008968
+            },
+            "model": "slabcraft:horizon_slab/bottom/glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.049967969250480464
+            },
+            "model": "slabcraft:horizon_slab/bottom/glowstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05060858424087124
+            },
+            "model": "slabcraft:horizon_slab/bottom/gold_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05124919923126201
+            },
+            "model": "slabcraft:horizon_slab/bottom/gold_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.051889814221652786
+            },
+            "model": "slabcraft:horizon_slab/bottom/granite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05253042921204356
+            },
+            "model": "slabcraft:horizon_slab/bottom/grass_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.053171044202434334
+            },
+            "model": "slabcraft:horizon_slab/bottom/grass_path"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.053811659192825115
+            },
+            "model": "slabcraft:horizon_slab/bottom/gravel"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05445227418321589
+            },
+            "model": "slabcraft:horizon_slab/bottom/gray_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05509288917360666
+            },
+            "model": "slabcraft:horizon_slab/bottom/gray_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05573350416399744
+            },
+            "model": "slabcraft:horizon_slab/bottom/gray_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05637411915438821
+            },
+            "model": "slabcraft:horizon_slab/bottom/gray_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.057014734144778985
+            },
+            "model": "slabcraft:horizon_slab/bottom/gray_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.057655349135169766
+            },
+            "model": "slabcraft:horizon_slab/bottom/gray_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05829596412556054
+            },
+            "model": "slabcraft:horizon_slab/bottom/green_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.058936579115951314
+            },
+            "model": "slabcraft:horizon_slab/bottom/green_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.05957719410634209
+            },
+            "model": "slabcraft:horizon_slab/bottom/green_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06021780909673286
+            },
+            "model": "slabcraft:horizon_slab/bottom/green_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.060858424087123636
+            },
+            "model": "slabcraft:horizon_slab/bottom/green_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06149903907751442
+            },
+            "model": "slabcraft:horizon_slab/bottom/green_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06213965406790519
+            },
+            "model": "slabcraft:horizon_slab/bottom/hay_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06278026905829596
+            },
+            "model": "slabcraft:horizon_slab/bottom/horn_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06342088404868675
+            },
+            "model": "slabcraft:horizon_slab/bottom/ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06406149903907751
+            },
+            "model": "slabcraft:horizon_slab/bottom/iron_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0647021140294683
+            },
+            "model": "slabcraft:horizon_slab/bottom/iron_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06534272901985906
+            },
+            "model": "slabcraft:horizon_slab/bottom/jukebox"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06598334401024984
+            },
+            "model": "slabcraft:horizon_slab/bottom/jungle_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06662395900064061
+            },
+            "model": "slabcraft:horizon_slab/bottom/jungle_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06726457399103139
+            },
+            "model": "slabcraft:horizon_slab/bottom/jungle_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06790518898142217
+            },
+            "model": "slabcraft:horizon_slab/bottom/lapis_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06854580397181294
+            },
+            "model": "slabcraft:horizon_slab/bottom/lapis_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06918641896220372
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_blue_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.06982703395259449
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_blue_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07046764894298527
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_blue_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07110826393337603
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_blue_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07174887892376682
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_blue_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0723894939141576
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_blue_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07303010890454836
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_gray_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07367072389493914
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_gray_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07431133888532991
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_gray_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07495195387572069
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_gray_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07559256886611147
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_gray_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07623318385650224
+            },
+            "model": "slabcraft:horizon_slab/bottom/light_gray_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07687379884689302
+            },
+            "model": "slabcraft:horizon_slab/bottom/lime_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07751441383728379
+            },
+            "model": "slabcraft:horizon_slab/bottom/lime_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07815502882767457
+            },
+            "model": "slabcraft:horizon_slab/bottom/lime_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07879564381806534
+            },
+            "model": "slabcraft:horizon_slab/bottom/lime_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.07943625880845612
+            },
+            "model": "slabcraft:horizon_slab/bottom/lime_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0800768737988469
+            },
+            "model": "slabcraft:horizon_slab/bottom/lime_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08071748878923767
+            },
+            "model": "slabcraft:horizon_slab/bottom/magenta_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08135810377962845
+            },
+            "model": "slabcraft:horizon_slab/bottom/magenta_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08199871877001921
+            },
+            "model": "slabcraft:horizon_slab/bottom/magenta_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08263933376041
+            },
+            "model": "slabcraft:horizon_slab/bottom/magenta_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08327994875080078
+            },
+            "model": "slabcraft:horizon_slab/bottom/magenta_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08392056374119154
+            },
+            "model": "slabcraft:horizon_slab/bottom/magenta_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08456117873158232
+            },
+            "model": "slabcraft:horizon_slab/bottom/magma_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08520179372197309
+            },
+            "model": "slabcraft:horizon_slab/bottom/melon"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08584240871236387
+            },
+            "model": "slabcraft:horizon_slab/bottom/mossy_cobblestone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08648302370275464
+            },
+            "model": "slabcraft:horizon_slab/bottom/mossy_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08712363869314542
+            },
+            "model": "slabcraft:horizon_slab/bottom/nether_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0877642536835362
+            },
+            "model": "slabcraft:horizon_slab/bottom/netherrack"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08840486867392697
+            },
+            "model": "slabcraft:horizon_slab/bottom/note_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08904548366431775
+            },
+            "model": "slabcraft:horizon_slab/bottom/oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.08968609865470852
+            },
+            "model": "slabcraft:horizon_slab/bottom/oak_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0903267136450993
+            },
+            "model": "slabcraft:horizon_slab/bottom/oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09096732863549008
+            },
+            "model": "slabcraft:horizon_slab/bottom/obsidian"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09160794362588084
+            },
+            "model": "slabcraft:horizon_slab/bottom/orange_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09224855861627163
+            },
+            "model": "slabcraft:horizon_slab/bottom/orange_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09288917360666239
+            },
+            "model": "slabcraft:horizon_slab/bottom/orange_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09352978859705317
+            },
+            "model": "slabcraft:horizon_slab/bottom/orange_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09417040358744394
+            },
+            "model": "slabcraft:horizon_slab/bottom/orange_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09481101857783472
+            },
+            "model": "slabcraft:horizon_slab/bottom/orange_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0954516335682255
+            },
+            "model": "slabcraft:horizon_slab/bottom/packed_ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09609224855861627
+            },
+            "model": "slabcraft:horizon_slab/bottom/pink_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09673286354900705
+            },
+            "model": "slabcraft:horizon_slab/bottom/pink_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09737347853939782
+            },
+            "model": "slabcraft:horizon_slab/bottom/pink_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.0980140935297886
+            },
+            "model": "slabcraft:horizon_slab/bottom/pink_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09865470852017937
+            },
+            "model": "slabcraft:horizon_slab/bottom/pink_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09929532351057015
+            },
+            "model": "slabcraft:horizon_slab/bottom/pink_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.09993593850096093
+            },
+            "model": "slabcraft:horizon_slab/bottom/polished_andesite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1005765534913517
+            },
+            "model": "slabcraft:horizon_slab/bottom/polished_diorite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10121716848174248
+            },
+            "model": "slabcraft:horizon_slab/bottom/polished_granite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10185778347213324
+            },
+            "model": "slabcraft:horizon_slab/bottom/prismarine"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10249839846252402
+            },
+            "model": "slabcraft:horizon_slab/bottom/prismarine_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1031390134529148
+            },
+            "model": "slabcraft:horizon_slab/bottom/pumpkin"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10377962844330557
+            },
+            "model": "slabcraft:horizon_slab/bottom/purple_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10442024343369635
+            },
+            "model": "slabcraft:horizon_slab/bottom/purple_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10506085842408712
+            },
+            "model": "slabcraft:horizon_slab/bottom/purple_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1057014734144779
+            },
+            "model": "slabcraft:horizon_slab/bottom/purple_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10634208840486867
+            },
+            "model": "slabcraft:horizon_slab/bottom/purple_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10698270339525945
+            },
+            "model": "slabcraft:horizon_slab/bottom/purple_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10762331838565023
+            },
+            "model": "slabcraft:horizon_slab/bottom/purpur_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.108263933376041
+            },
+            "model": "slabcraft:horizon_slab/bottom/purpur_pillar"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10890454836643178
+            },
+            "model": "slabcraft:horizon_slab/bottom/quartz_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.10954516335682254
+            },
+            "model": "slabcraft:horizon_slab/bottom/quartz_pillar"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11018577834721333
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1108263933376041
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11146700832799487
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11210762331838565
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11274823830877642
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1133888532991672
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11402946828955797
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_mushroom_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11467008327994875
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_nether_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11531069827033953
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1159513132607303
+            },
+            "model": "slabcraft:horizon_slab/bottom/red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11659192825112108
+            },
+            "model": "slabcraft:horizon_slab/bottom/redstone_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11723254324151185
+            },
+            "model": "slabcraft:horizon_slab/bottom/redstone_lamp"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11787315823190263
+            },
+            "model": "slabcraft:horizon_slab/bottom/redstone_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1185137732222934
+            },
+            "model": "slabcraft:horizon_slab/bottom/repeating_command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11915438821268418
+            },
+            "model": "slabcraft:horizon_slab/bottom/repeating_command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.11979500320307496
+            },
+            "model": "slabcraft:horizon_slab/bottom/sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12043561819346572
+            },
+            "model": "slabcraft:horizon_slab/bottom/sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1210762331838565
+            },
+            "model": "slabcraft:horizon_slab/bottom/sea_lantern"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12171684817424727
+            },
+            "model": "slabcraft:horizon_slab/bottom/slime_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12235746316463805
+            },
+            "model": "slabcraft:horizon_slab/bottom/smooth_quartz"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12299807815502883
+            },
+            "model": "slabcraft:horizon_slab/bottom/smooth_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1236386931454196
+            },
+            "model": "slabcraft:horizon_slab/bottom/smooth_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12427930813581038
+            },
+            "model": "slabcraft:horizon_slab/bottom/smooth_stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12491992312620115
+            },
+            "model": "slabcraft:horizon_slab/bottom/snow_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12556053811659193
+            },
+            "model": "slabcraft:horizon_slab/bottom/soul_sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1262011531069827
+            },
+            "model": "slabcraft:horizon_slab/bottom/spawner"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1268417680973735
+            },
+            "model": "slabcraft:horizon_slab/bottom/sponge"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12748238308776424
+            },
+            "model": "slabcraft:horizon_slab/bottom/spruce_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.12812299807815503
+            },
+            "model": "slabcraft:horizon_slab/bottom/spruce_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1287636130685458
+            },
+            "model": "slabcraft:horizon_slab/bottom/spruce_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1294042280589366
+            },
+            "model": "slabcraft:horizon_slab/bottom/stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13004484304932734
+            },
+            "model": "slabcraft:horizon_slab/bottom/stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13068545803971812
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_acacia_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1313260730301089
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_acacia_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13196668802049968
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_birch_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13260730301089046
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_birch_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13324791800128122
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_dark_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.133888532991672
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_dark_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13452914798206278
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_jungle_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13516976297245356
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_jungle_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13581037796284434
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1364509929532351
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13709160794362588
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_spruce_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13773222293401666
+            },
+            "model": "slabcraft:horizon_slab/bottom/stripped_spruce_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13837283792440744
+            },
+            "model": "slabcraft:horizon_slab/bottom/structure_block_corner"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13901345291479822
+            },
+            "model": "slabcraft:horizon_slab/bottom/structure_block_data"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.13965406790518897
+            },
+            "model": "slabcraft:horizon_slab/bottom/structure_block_load"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14029468289557975
+            },
+            "model": "slabcraft:horizon_slab/bottom/structure_block_save"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14093529788597053
+            },
+            "model": "slabcraft:horizon_slab/bottom/tnt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14157591287636132
+            },
+            "model": "slabcraft:horizon_slab/bottom/tube_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14221652786675207
+            },
+            "model": "slabcraft:horizon_slab/bottom/wet_sponge"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14285714285714285
+            },
+            "model": "slabcraft:horizon_slab/bottom/white_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14349775784753363
+            },
+            "model": "slabcraft:horizon_slab/bottom/white_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1441383728379244
+            },
+            "model": "slabcraft:horizon_slab/bottom/white_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1447789878283152
+            },
+            "model": "slabcraft:horizon_slab/bottom/white_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14541960281870595
+            },
+            "model": "slabcraft:horizon_slab/bottom/white_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14606021780909673
+            },
+            "model": "slabcraft:horizon_slab/bottom/white_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1467008327994875
+            },
+            "model": "slabcraft:horizon_slab/bottom/yellow_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1473414477898783
+            },
+            "model": "slabcraft:horizon_slab/bottom/yellow_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14798206278026907
+            },
+            "model": "slabcraft:horizon_slab/bottom/yellow_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14862267777065982
+            },
+            "model": "slabcraft:horizon_slab/bottom/yellow_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1492632927610506
+            },
+            "model": "slabcraft:horizon_slab/bottom/yellow_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.14990390775144138
+            },
+            "model": "slabcraft:horizon_slab/bottom/yellow_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.19282511210762332
+            },
+            "model": "slabcraft:horizon_slab/top/acacia_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1934657270980141
+            },
+            "model": "slabcraft:horizon_slab/top/acacia_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.19410634208840488
+            },
+            "model": "slabcraft:horizon_slab/top/acacia_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.19474695707879563
+            },
+            "model": "slabcraft:horizon_slab/top/andesite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.19538757206918642
+            },
+            "model": "slabcraft:horizon_slab/top/bedrock"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1960281870595772
+            },
+            "model": "slabcraft:horizon_slab/top/birch_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.19666880204996798
+            },
+            "model": "slabcraft:horizon_slab/top/birch_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.19730941704035873
+            },
+            "model": "slabcraft:horizon_slab/top/birch_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1979500320307495
+            },
+            "model": "slabcraft:horizon_slab/top/black_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.1985906470211403
+            },
+            "model": "slabcraft:horizon_slab/top/black_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.19923126201153107
+            },
+            "model": "slabcraft:horizon_slab/top/black_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.19987187700192185
+            },
+            "model": "slabcraft:horizon_slab/top/black_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2005124919923126
+            },
+            "model": "slabcraft:horizon_slab/top/black_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2011531069827034
+            },
+            "model": "slabcraft:horizon_slab/top/black_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20179372197309417
+            },
+            "model": "slabcraft:horizon_slab/top/blue_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20243433696348495
+            },
+            "model": "slabcraft:horizon_slab/top/blue_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20307495195387573
+            },
+            "model": "slabcraft:horizon_slab/top/blue_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20371556694426649
+            },
+            "model": "slabcraft:horizon_slab/top/blue_ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20435618193465727
+            },
+            "model": "slabcraft:horizon_slab/top/blue_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20499679692504805
+            },
+            "model": "slabcraft:horizon_slab/top/blue_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20563741191543883
+            },
+            "model": "slabcraft:horizon_slab/top/blue_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2062780269058296
+            },
+            "model": "slabcraft:horizon_slab/top/bone_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20691864189622036
+            },
+            "model": "slabcraft:horizon_slab/top/bookshelf"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20755925688661114
+            },
+            "model": "slabcraft:horizon_slab/top/brain_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20819987187700192
+            },
+            "model": "slabcraft:horizon_slab/top/bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2088404868673927
+            },
+            "model": "slabcraft:horizon_slab/top/brown_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.20948110185778346
+            },
+            "model": "slabcraft:horizon_slab/top/brown_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21012171684817424
+            },
+            "model": "slabcraft:horizon_slab/top/brown_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21076233183856502
+            },
+            "model": "slabcraft:horizon_slab/top/brown_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2114029468289558
+            },
+            "model": "slabcraft:horizon_slab/top/brown_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21204356181934658
+            },
+            "model": "slabcraft:horizon_slab/top/brown_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21268417680973734
+            },
+            "model": "slabcraft:horizon_slab/top/brown_mushroom_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21332479180012812
+            },
+            "model": "slabcraft:horizon_slab/top/bubble_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2139654067905189
+            },
+            "model": "slabcraft:horizon_slab/top/carved_pumpkin"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21460602178090968
+            },
+            "model": "slabcraft:horizon_slab/top/chain_command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21524663677130046
+            },
+            "model": "slabcraft:horizon_slab/top/chain_command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2158872517616912
+            },
+            "model": "slabcraft:horizon_slab/top/chiseled_quartz_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.216527866752082
+            },
+            "model": "slabcraft:horizon_slab/top/chiseled_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21716848174247277
+            },
+            "model": "slabcraft:horizon_slab/top/chiseled_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21780909673286356
+            },
+            "model": "slabcraft:horizon_slab/top/chiseled_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21844971172325434
+            },
+            "model": "slabcraft:horizon_slab/top/clay"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2190903267136451
+            },
+            "model": "slabcraft:horizon_slab/top/coal_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.21973094170403587
+            },
+            "model": "slabcraft:horizon_slab/top/coal_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22037155669442665
+            },
+            "model": "slabcraft:horizon_slab/top/coarse_dirt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22101217168481743
+            },
+            "model": "slabcraft:horizon_slab/top/cobblestone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2216527866752082
+            },
+            "model": "slabcraft:horizon_slab/top/command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22229340166559897
+            },
+            "model": "slabcraft:horizon_slab/top/command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22293401665598975
+            },
+            "model": "slabcraft:horizon_slab/top/cracked_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22357463164638053
+            },
+            "model": "slabcraft:horizon_slab/top/crafting_table"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2242152466367713
+            },
+            "model": "slabcraft:horizon_slab/top/cut_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22485586162716206
+            },
+            "model": "slabcraft:horizon_slab/top/cut_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22549647661755284
+            },
+            "model": "slabcraft:horizon_slab/top/cyan_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22613709160794362
+            },
+            "model": "slabcraft:horizon_slab/top/cyan_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2267777065983344
+            },
+            "model": "slabcraft:horizon_slab/top/cyan_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2274183215887252
+            },
+            "model": "slabcraft:horizon_slab/top/cyan_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22805893657911594
+            },
+            "model": "slabcraft:horizon_slab/top/cyan_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22869955156950672
+            },
+            "model": "slabcraft:horizon_slab/top/cyan_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2293401665598975
+            },
+            "model": "slabcraft:horizon_slab/top/dark_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.22998078155028828
+            },
+            "model": "slabcraft:horizon_slab/top/dark_oak_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23062139654067906
+            },
+            "model": "slabcraft:horizon_slab/top/dark_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23126201153106982
+            },
+            "model": "slabcraft:horizon_slab/top/dark_prismarine"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2319026265214606
+            },
+            "model": "slabcraft:horizon_slab/top/dead_brain_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23254324151185138
+            },
+            "model": "slabcraft:horizon_slab/top/dead_bubble_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23318385650224216
+            },
+            "model": "slabcraft:horizon_slab/top/dead_fire_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23382447149263294
+            },
+            "model": "slabcraft:horizon_slab/top/dead_horn_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2344650864830237
+            },
+            "model": "slabcraft:horizon_slab/top/dead_tube_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23510570147341447
+            },
+            "model": "slabcraft:horizon_slab/top/diamond_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23574631646380526
+            },
+            "model": "slabcraft:horizon_slab/top/diamond_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23638693145419604
+            },
+            "model": "slabcraft:horizon_slab/top/diorite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2370275464445868
+            },
+            "model": "slabcraft:horizon_slab/top/dirt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23766816143497757
+            },
+            "model": "slabcraft:horizon_slab/top/emerald_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23830877642536835
+            },
+            "model": "slabcraft:horizon_slab/top/emerald_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.23894939141575913
+            },
+            "model": "slabcraft:horizon_slab/top/end_stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2395900064061499
+            },
+            "model": "slabcraft:horizon_slab/top/end_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24023062139654067
+            },
+            "model": "slabcraft:horizon_slab/top/fire_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24087123638693145
+            },
+            "model": "slabcraft:horizon_slab/top/furnace"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24151185137732223
+            },
+            "model": "slabcraft:horizon_slab/top/glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.242152466367713
+            },
+            "model": "slabcraft:horizon_slab/top/glowstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2427930813581038
+            },
+            "model": "slabcraft:horizon_slab/top/gold_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24343369634849454
+            },
+            "model": "slabcraft:horizon_slab/top/gold_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24407431133888532
+            },
+            "model": "slabcraft:horizon_slab/top/granite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2447149263292761
+            },
+            "model": "slabcraft:horizon_slab/top/grass_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2453555413196669
+            },
+            "model": "slabcraft:horizon_slab/top/grass_path"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24599615631005767
+            },
+            "model": "slabcraft:horizon_slab/top/gravel"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24663677130044842
+            },
+            "model": "slabcraft:horizon_slab/top/gray_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2472773862908392
+            },
+            "model": "slabcraft:horizon_slab/top/gray_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24791800128122998
+            },
+            "model": "slabcraft:horizon_slab/top/gray_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24855861627162076
+            },
+            "model": "slabcraft:horizon_slab/top/gray_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.24919923126201154
+            },
+            "model": "slabcraft:horizon_slab/top/gray_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2498398462524023
+            },
+            "model": "slabcraft:horizon_slab/top/gray_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2504804612427931
+            },
+            "model": "slabcraft:horizon_slab/top/green_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.25112107623318386
+            },
+            "model": "slabcraft:horizon_slab/top/green_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2517616912235746
+            },
+            "model": "slabcraft:horizon_slab/top/green_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2524023062139654
+            },
+            "model": "slabcraft:horizon_slab/top/green_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2530429212043562
+            },
+            "model": "slabcraft:horizon_slab/top/green_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.253683536194747
+            },
+            "model": "slabcraft:horizon_slab/top/green_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.25432415118513774
+            },
+            "model": "slabcraft:horizon_slab/top/hay_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2549647661755285
+            },
+            "model": "slabcraft:horizon_slab/top/horn_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2556053811659193
+            },
+            "model": "slabcraft:horizon_slab/top/ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.25624599615631005
+            },
+            "model": "slabcraft:horizon_slab/top/iron_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2568866111467008
+            },
+            "model": "slabcraft:horizon_slab/top/iron_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2575272261370916
+            },
+            "model": "slabcraft:horizon_slab/top/jukebox"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.25816784112748237
+            },
+            "model": "slabcraft:horizon_slab/top/jungle_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2588084561178732
+            },
+            "model": "slabcraft:horizon_slab/top/jungle_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.25944907110826393
+            },
+            "model": "slabcraft:horizon_slab/top/jungle_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2600896860986547
+            },
+            "model": "slabcraft:horizon_slab/top/lapis_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2607303010890455
+            },
+            "model": "slabcraft:horizon_slab/top/lapis_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.26137091607943624
+            },
+            "model": "slabcraft:horizon_slab/top/light_blue_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.26201153106982705
+            },
+            "model": "slabcraft:horizon_slab/top/light_blue_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2626521460602178
+            },
+            "model": "slabcraft:horizon_slab/top/light_blue_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.26329276105060856
+            },
+            "model": "slabcraft:horizon_slab/top/light_blue_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.26393337604099937
+            },
+            "model": "slabcraft:horizon_slab/top/light_blue_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2645739910313901
+            },
+            "model": "slabcraft:horizon_slab/top/light_blue_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.26521460602178093
+            },
+            "model": "slabcraft:horizon_slab/top/light_gray_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2658552210121717
+            },
+            "model": "slabcraft:horizon_slab/top/light_gray_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.26649583600256244
+            },
+            "model": "slabcraft:horizon_slab/top/light_gray_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.26713645099295324
+            },
+            "model": "slabcraft:horizon_slab/top/light_gray_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.267777065983344
+            },
+            "model": "slabcraft:horizon_slab/top/light_gray_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2684176809737348
+            },
+            "model": "slabcraft:horizon_slab/top/light_gray_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.26905829596412556
+            },
+            "model": "slabcraft:horizon_slab/top/lime_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2696989109545163
+            },
+            "model": "slabcraft:horizon_slab/top/lime_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2703395259449071
+            },
+            "model": "slabcraft:horizon_slab/top/lime_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2709801409352979
+            },
+            "model": "slabcraft:horizon_slab/top/lime_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2716207559256887
+            },
+            "model": "slabcraft:horizon_slab/top/lime_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.27226137091607944
+            },
+            "model": "slabcraft:horizon_slab/top/lime_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2729019859064702
+            },
+            "model": "slabcraft:horizon_slab/top/magenta_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.273542600896861
+            },
+            "model": "slabcraft:horizon_slab/top/magenta_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.27418321588725175
+            },
+            "model": "slabcraft:horizon_slab/top/magenta_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.27482383087764256
+            },
+            "model": "slabcraft:horizon_slab/top/magenta_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2754644458680333
+            },
+            "model": "slabcraft:horizon_slab/top/magenta_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.27610506085842407
+            },
+            "model": "slabcraft:horizon_slab/top/magenta_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2767456758488149
+            },
+            "model": "slabcraft:horizon_slab/top/magma_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.27738629083920563
+            },
+            "model": "slabcraft:horizon_slab/top/melon"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.27802690582959644
+            },
+            "model": "slabcraft:horizon_slab/top/mossy_cobblestone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2786675208199872
+            },
+            "model": "slabcraft:horizon_slab/top/mossy_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.27930813581037794
+            },
+            "model": "slabcraft:horizon_slab/top/nether_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.27994875080076875
+            },
+            "model": "slabcraft:horizon_slab/top/netherrack"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2805893657911595
+            },
+            "model": "slabcraft:horizon_slab/top/note_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2812299807815503
+            },
+            "model": "slabcraft:horizon_slab/top/oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.28187059577194107
+            },
+            "model": "slabcraft:horizon_slab/top/oak_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2825112107623318
+            },
+            "model": "slabcraft:horizon_slab/top/oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.28315182575272263
+            },
+            "model": "slabcraft:horizon_slab/top/obsidian"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2837924407431134
+            },
+            "model": "slabcraft:horizon_slab/top/orange_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.28443305573350414
+            },
+            "model": "slabcraft:horizon_slab/top/orange_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.28507367072389495
+            },
+            "model": "slabcraft:horizon_slab/top/orange_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2857142857142857
+            },
+            "model": "slabcraft:horizon_slab/top/orange_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2863549007046765
+            },
+            "model": "slabcraft:horizon_slab/top/orange_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.28699551569506726
+            },
+            "model": "slabcraft:horizon_slab/top/orange_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.287636130685458
+            },
+            "model": "slabcraft:horizon_slab/top/packed_ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2882767456758488
+            },
+            "model": "slabcraft:horizon_slab/top/pink_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2889173606662396
+            },
+            "model": "slabcraft:horizon_slab/top/pink_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2895579756566304
+            },
+            "model": "slabcraft:horizon_slab/top/pink_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29019859064702114
+            },
+            "model": "slabcraft:horizon_slab/top/pink_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2908392056374119
+            },
+            "model": "slabcraft:horizon_slab/top/pink_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2914798206278027
+            },
+            "model": "slabcraft:horizon_slab/top/pink_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29212043561819345
+            },
+            "model": "slabcraft:horizon_slab/top/polished_andesite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29276105060858426
+            },
+            "model": "slabcraft:horizon_slab/top/polished_diorite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.293401665598975
+            },
+            "model": "slabcraft:horizon_slab/top/polished_granite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29404228058936577
+            },
+            "model": "slabcraft:horizon_slab/top/prismarine"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2946828955797566
+            },
+            "model": "slabcraft:horizon_slab/top/prismarine_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29532351057014733
+            },
+            "model": "slabcraft:horizon_slab/top/pumpkin"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29596412556053814
+            },
+            "model": "slabcraft:horizon_slab/top/purple_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2966047405509289
+            },
+            "model": "slabcraft:horizon_slab/top/purple_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29724535554131964
+            },
+            "model": "slabcraft:horizon_slab/top/purple_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29788597053171045
+            },
+            "model": "slabcraft:horizon_slab/top/purple_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.2985265855221012
+            },
+            "model": "slabcraft:horizon_slab/top/purple_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.299167200512492
+            },
+            "model": "slabcraft:horizon_slab/top/purple_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.29980781550288277
+            },
+            "model": "slabcraft:horizon_slab/top/purpur_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3004484304932735
+            },
+            "model": "slabcraft:horizon_slab/top/purpur_pillar"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.30108904548366433
+            },
+            "model": "slabcraft:horizon_slab/top/quartz_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3017296604740551
+            },
+            "model": "slabcraft:horizon_slab/top/quartz_pillar"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3023702754644459
+            },
+            "model": "slabcraft:horizon_slab/top/red_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.30301089045483665
+            },
+            "model": "slabcraft:horizon_slab/top/red_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3036515054452274
+            },
+            "model": "slabcraft:horizon_slab/top/red_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3042921204356182
+            },
+            "model": "slabcraft:horizon_slab/top/red_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.30493273542600896
+            },
+            "model": "slabcraft:horizon_slab/top/red_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.30557335041639977
+            },
+            "model": "slabcraft:horizon_slab/top/red_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3062139654067905
+            },
+            "model": "slabcraft:horizon_slab/top/red_mushroom_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3068545803971813
+            },
+            "model": "slabcraft:horizon_slab/top/red_nether_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3074951953875721
+            },
+            "model": "slabcraft:horizon_slab/top/red_sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.30813581037796284
+            },
+            "model": "slabcraft:horizon_slab/top/red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.30877642536835365
+            },
+            "model": "slabcraft:horizon_slab/top/redstone_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3094170403587444
+            },
+            "model": "slabcraft:horizon_slab/top/redstone_lamp"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31005765534913515
+            },
+            "model": "slabcraft:horizon_slab/top/redstone_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31069827033952596
+            },
+            "model": "slabcraft:horizon_slab/top/repeating_command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3113388853299167
+            },
+            "model": "slabcraft:horizon_slab/top/repeating_command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31197950032030747
+            },
+            "model": "slabcraft:horizon_slab/top/sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3126201153106983
+            },
+            "model": "slabcraft:horizon_slab/top/sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31326073030108903
+            },
+            "model": "slabcraft:horizon_slab/top/sea_lantern"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31390134529147984
+            },
+            "model": "slabcraft:horizon_slab/top/slime_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3145419602818706
+            },
+            "model": "slabcraft:horizon_slab/top/smooth_quartz"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31518257527226134
+            },
+            "model": "slabcraft:horizon_slab/top/smooth_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31582319026265215
+            },
+            "model": "slabcraft:horizon_slab/top/smooth_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3164638052530429
+            },
+            "model": "slabcraft:horizon_slab/top/smooth_stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3171044202434337
+            },
+            "model": "slabcraft:horizon_slab/top/snow_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31774503523382447
+            },
+            "model": "slabcraft:horizon_slab/top/soul_sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3183856502242152
+            },
+            "model": "slabcraft:horizon_slab/top/spawner"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.31902626521460603
+            },
+            "model": "slabcraft:horizon_slab/top/sponge"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3196668802049968
+            },
+            "model": "slabcraft:horizon_slab/top/spruce_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3203074951953876
+            },
+            "model": "slabcraft:horizon_slab/top/spruce_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.32094811018577835
+            },
+            "model": "slabcraft:horizon_slab/top/spruce_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3215887251761691
+            },
+            "model": "slabcraft:horizon_slab/top/stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3222293401665599
+            },
+            "model": "slabcraft:horizon_slab/top/stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.32286995515695066
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_acacia_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.32351057014734147
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_acacia_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3241511851377322
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_birch_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.324791800128123
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_birch_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3254324151185138
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_dark_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.32607303010890454
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_dark_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.32671364509929535
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_jungle_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3273542600896861
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_jungle_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.32799487508007685
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.32863549007046766
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3292761050608584
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_spruce_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3299167200512492
+            },
+            "model": "slabcraft:horizon_slab/top/stripped_spruce_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.33055733504164
+            },
+            "model": "slabcraft:horizon_slab/top/structure_block_corner"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.33119795003203073
+            },
+            "model": "slabcraft:horizon_slab/top/structure_block_data"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.33183856502242154
+            },
+            "model": "slabcraft:horizon_slab/top/structure_block_load"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3324791800128123
+            },
+            "model": "slabcraft:horizon_slab/top/structure_block_save"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3331197950032031
+            },
+            "model": "slabcraft:horizon_slab/top/tnt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.33376040999359385
+            },
+            "model": "slabcraft:horizon_slab/top/tube_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3344010249839846
+            },
+            "model": "slabcraft:horizon_slab/top/wet_sponge"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3350416399743754
+            },
+            "model": "slabcraft:horizon_slab/top/white_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.33568225496476617
+            },
+            "model": "slabcraft:horizon_slab/top/white_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.336322869955157
+            },
+            "model": "slabcraft:horizon_slab/top/white_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.33696348494554773
+            },
+            "model": "slabcraft:horizon_slab/top/white_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3376040999359385
+            },
+            "model": "slabcraft:horizon_slab/top/white_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3382447149263293
+            },
+            "model": "slabcraft:horizon_slab/top/white_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.33888532991672005
+            },
+            "model": "slabcraft:horizon_slab/top/yellow_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3395259449071108
+            },
+            "model": "slabcraft:horizon_slab/top/yellow_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3401665598975016
+            },
+            "model": "slabcraft:horizon_slab/top/yellow_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.34080717488789236
+            },
+            "model": "slabcraft:horizon_slab/top/yellow_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.34144778987828317
+            },
+            "model": "slabcraft:horizon_slab/top/yellow_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3420884048686739
+            },
+            "model": "slabcraft:horizon_slab/top/yellow_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3850096092248559
+            },
+            "model": "slabcraft:verticle_slab/front/acacia_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.38565022421524664
+            },
+            "model": "slabcraft:verticle_slab/front/acacia_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3862908392056374
+            },
+            "model": "slabcraft:verticle_slab/front/acacia_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3869314541960282
+            },
+            "model": "slabcraft:verticle_slab/front/andesite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.38757206918641895
+            },
+            "model": "slabcraft:verticle_slab/front/bedrock"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.38821268417680976
+            },
+            "model": "slabcraft:verticle_slab/front/birch_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3888532991672005
+            },
+            "model": "slabcraft:verticle_slab/front/birch_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.38949391415759127
+            },
+            "model": "slabcraft:verticle_slab/front/birch_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3901345291479821
+            },
+            "model": "slabcraft:verticle_slab/front/black_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39077514413837283
+            },
+            "model": "slabcraft:verticle_slab/front/black_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39141575912876364
+            },
+            "model": "slabcraft:verticle_slab/front/black_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3920563741191544
+            },
+            "model": "slabcraft:verticle_slab/front/black_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39269698910954515
+            },
+            "model": "slabcraft:verticle_slab/front/black_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39333760409993596
+            },
+            "model": "slabcraft:verticle_slab/front/black_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3939782190903267
+            },
+            "model": "slabcraft:verticle_slab/front/blue_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39461883408071746
+            },
+            "model": "slabcraft:verticle_slab/front/blue_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39525944907110827
+            },
+            "model": "slabcraft:verticle_slab/front/blue_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.395900064061499
+            },
+            "model": "slabcraft:verticle_slab/front/blue_ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39654067905188983
+            },
+            "model": "slabcraft:verticle_slab/front/blue_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3971812940422806
+            },
+            "model": "slabcraft:verticle_slab/front/blue_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39782190903267134
+            },
+            "model": "slabcraft:verticle_slab/front/blue_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.39846252402306215
+            },
+            "model": "slabcraft:verticle_slab/front/bone_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3991031390134529
+            },
+            "model": "slabcraft:verticle_slab/front/bookshelf"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.3997437540038437
+            },
+            "model": "slabcraft:verticle_slab/front/brain_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.40038436899423446
+            },
+            "model": "slabcraft:verticle_slab/front/bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4010249839846252
+            },
+            "model": "slabcraft:verticle_slab/front/brown_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.401665598975016
+            },
+            "model": "slabcraft:verticle_slab/front/brown_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4023062139654068
+            },
+            "model": "slabcraft:verticle_slab/front/brown_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4029468289557976
+            },
+            "model": "slabcraft:verticle_slab/front/brown_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.40358744394618834
+            },
+            "model": "slabcraft:verticle_slab/front/brown_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4042280589365791
+            },
+            "model": "slabcraft:verticle_slab/front/brown_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4048686739269699
+            },
+            "model": "slabcraft:verticle_slab/front/brown_mushroom_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.40550928891736066
+            },
+            "model": "slabcraft:verticle_slab/front/bubble_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.40614990390775146
+            },
+            "model": "slabcraft:verticle_slab/front/carved_pumpkin"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4067905188981422
+            },
+            "model": "slabcraft:verticle_slab/front/chain_command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.40743113388853297
+            },
+            "model": "slabcraft:verticle_slab/front/chain_command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4080717488789238
+            },
+            "model": "slabcraft:verticle_slab/front/chiseled_quartz_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.40871236386931453
+            },
+            "model": "slabcraft:verticle_slab/front/chiseled_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.40935297885970534
+            },
+            "model": "slabcraft:verticle_slab/front/chiseled_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4099935938500961
+            },
+            "model": "slabcraft:verticle_slab/front/chiseled_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.41063420884048685
+            },
+            "model": "slabcraft:verticle_slab/front/clay"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.41127482383087766
+            },
+            "model": "slabcraft:verticle_slab/front/coal_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4119154388212684
+            },
+            "model": "slabcraft:verticle_slab/front/coal_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4125560538116592
+            },
+            "model": "slabcraft:verticle_slab/front/coarse_dirt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.41319666880204997
+            },
+            "model": "slabcraft:verticle_slab/front/cobblestone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4138372837924407
+            },
+            "model": "slabcraft:verticle_slab/front/command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.41447789878283153
+            },
+            "model": "slabcraft:verticle_slab/front/command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4151185137732223
+            },
+            "model": "slabcraft:verticle_slab/front/cracked_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4157591287636131
+            },
+            "model": "slabcraft:verticle_slab/front/crafting_table"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.41639974375400385
+            },
+            "model": "slabcraft:verticle_slab/front/cut_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4170403587443946
+            },
+            "model": "slabcraft:verticle_slab/front/cut_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4176809737347854
+            },
+            "model": "slabcraft:verticle_slab/front/cyan_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.41832158872517616
+            },
+            "model": "slabcraft:verticle_slab/front/cyan_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4189622037155669
+            },
+            "model": "slabcraft:verticle_slab/front/cyan_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4196028187059577
+            },
+            "model": "slabcraft:verticle_slab/front/cyan_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4202434336963485
+            },
+            "model": "slabcraft:verticle_slab/front/cyan_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4208840486867393
+            },
+            "model": "slabcraft:verticle_slab/front/cyan_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.42152466367713004
+            },
+            "model": "slabcraft:verticle_slab/front/dark_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4221652786675208
+            },
+            "model": "slabcraft:verticle_slab/front/dark_oak_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4228058936579116
+            },
+            "model": "slabcraft:verticle_slab/front/dark_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.42344650864830236
+            },
+            "model": "slabcraft:verticle_slab/front/dark_prismarine"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.42408712363869316
+            },
+            "model": "slabcraft:verticle_slab/front/dead_brain_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4247277386290839
+            },
+            "model": "slabcraft:verticle_slab/front/dead_bubble_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.42536835361947467
+            },
+            "model": "slabcraft:verticle_slab/front/dead_fire_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4260089686098655
+            },
+            "model": "slabcraft:verticle_slab/front/dead_horn_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.42664958360025623
+            },
+            "model": "slabcraft:verticle_slab/front/dead_tube_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.42729019859064704
+            },
+            "model": "slabcraft:verticle_slab/front/diamond_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4279308135810378
+            },
+            "model": "slabcraft:verticle_slab/front/diamond_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.42857142857142855
+            },
+            "model": "slabcraft:verticle_slab/front/diorite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.42921204356181936
+            },
+            "model": "slabcraft:verticle_slab/front/dirt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4298526585522101
+            },
+            "model": "slabcraft:verticle_slab/front/emerald_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4304932735426009
+            },
+            "model": "slabcraft:verticle_slab/front/emerald_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.43113388853299167
+            },
+            "model": "slabcraft:verticle_slab/front/end_stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4317745035233824
+            },
+            "model": "slabcraft:verticle_slab/front/end_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.43241511851377323
+            },
+            "model": "slabcraft:verticle_slab/front/fire_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.433055733504164
+            },
+            "model": "slabcraft:verticle_slab/front/furnace"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4336963484945548
+            },
+            "model": "slabcraft:verticle_slab/front/glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.43433696348494555
+            },
+            "model": "slabcraft:verticle_slab/front/glowstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4349775784753363
+            },
+            "model": "slabcraft:verticle_slab/front/gold_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4356181934657271
+            },
+            "model": "slabcraft:verticle_slab/front/gold_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.43625880845611786
+            },
+            "model": "slabcraft:verticle_slab/front/granite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4368994234465087
+            },
+            "model": "slabcraft:verticle_slab/front/grass_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4375400384368994
+            },
+            "model": "slabcraft:verticle_slab/front/grass_path"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4381806534272902
+            },
+            "model": "slabcraft:verticle_slab/front/gravel"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.438821268417681
+            },
+            "model": "slabcraft:verticle_slab/front/gray_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.43946188340807174
+            },
+            "model": "slabcraft:verticle_slab/front/gray_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.44010249839846255
+            },
+            "model": "slabcraft:verticle_slab/front/gray_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4407431133888533
+            },
+            "model": "slabcraft:verticle_slab/front/gray_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.44138372837924406
+            },
+            "model": "slabcraft:verticle_slab/front/gray_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.44202434336963486
+            },
+            "model": "slabcraft:verticle_slab/front/gray_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4426649583600256
+            },
+            "model": "slabcraft:verticle_slab/front/green_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4433055733504164
+            },
+            "model": "slabcraft:verticle_slab/front/green_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4439461883408072
+            },
+            "model": "slabcraft:verticle_slab/front/green_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.44458680333119793
+            },
+            "model": "slabcraft:verticle_slab/front/green_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.44522741832158874
+            },
+            "model": "slabcraft:verticle_slab/front/green_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4458680333119795
+            },
+            "model": "slabcraft:verticle_slab/front/green_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.44650864830237025
+            },
+            "model": "slabcraft:verticle_slab/front/hay_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.44714926329276106
+            },
+            "model": "slabcraft:verticle_slab/front/horn_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4477898782831518
+            },
+            "model": "slabcraft:verticle_slab/front/ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4484304932735426
+            },
+            "model": "slabcraft:verticle_slab/front/iron_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.44907110826393337
+            },
+            "model": "slabcraft:verticle_slab/front/iron_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4497117232543241
+            },
+            "model": "slabcraft:verticle_slab/front/jukebox"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.45035233824471493
+            },
+            "model": "slabcraft:verticle_slab/front/jungle_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4509929532351057
+            },
+            "model": "slabcraft:verticle_slab/front/jungle_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4516335682254965
+            },
+            "model": "slabcraft:verticle_slab/front/jungle_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.45227418321588725
+            },
+            "model": "slabcraft:verticle_slab/front/lapis_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.452914798206278
+            },
+            "model": "slabcraft:verticle_slab/front/lapis_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4535554131966688
+            },
+            "model": "slabcraft:verticle_slab/front/light_blue_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.45419602818705956
+            },
+            "model": "slabcraft:verticle_slab/front/light_blue_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4548366431774504
+            },
+            "model": "slabcraft:verticle_slab/front/light_blue_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4554772581678411
+            },
+            "model": "slabcraft:verticle_slab/front/light_blue_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4561178731582319
+            },
+            "model": "slabcraft:verticle_slab/front/light_blue_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4567584881486227
+            },
+            "model": "slabcraft:verticle_slab/front/light_blue_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.45739910313901344
+            },
+            "model": "slabcraft:verticle_slab/front/light_gray_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.45803971812940425
+            },
+            "model": "slabcraft:verticle_slab/front/light_gray_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.458680333119795
+            },
+            "model": "slabcraft:verticle_slab/front/light_gray_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.45932094811018576
+            },
+            "model": "slabcraft:verticle_slab/front/light_gray_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.45996156310057656
+            },
+            "model": "slabcraft:verticle_slab/front/light_gray_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4606021780909673
+            },
+            "model": "slabcraft:verticle_slab/front/light_gray_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4612427930813581
+            },
+            "model": "slabcraft:verticle_slab/front/lime_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4618834080717489
+            },
+            "model": "slabcraft:verticle_slab/front/lime_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.46252402306213963
+            },
+            "model": "slabcraft:verticle_slab/front/lime_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.46316463805253044
+            },
+            "model": "slabcraft:verticle_slab/front/lime_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4638052530429212
+            },
+            "model": "slabcraft:verticle_slab/front/lime_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.464445868033312
+            },
+            "model": "slabcraft:verticle_slab/front/lime_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.46508648302370276
+            },
+            "model": "slabcraft:verticle_slab/front/magenta_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4657270980140935
+            },
+            "model": "slabcraft:verticle_slab/front/magenta_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4663677130044843
+            },
+            "model": "slabcraft:verticle_slab/front/magenta_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.46700832799487507
+            },
+            "model": "slabcraft:verticle_slab/front/magenta_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4676489429852659
+            },
+            "model": "slabcraft:verticle_slab/front/magenta_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.46828955797565663
+            },
+            "model": "slabcraft:verticle_slab/front/magenta_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4689301729660474
+            },
+            "model": "slabcraft:verticle_slab/front/magma_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4695707879564382
+            },
+            "model": "slabcraft:verticle_slab/front/melon"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.47021140294682895
+            },
+            "model": "slabcraft:verticle_slab/front/mossy_cobblestone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.47085201793721976
+            },
+            "model": "slabcraft:verticle_slab/front/mossy_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4714926329276105
+            },
+            "model": "slabcraft:verticle_slab/front/nether_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.47213324791800126
+            },
+            "model": "slabcraft:verticle_slab/front/netherrack"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4727738629083921
+            },
+            "model": "slabcraft:verticle_slab/front/note_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4734144778987828
+            },
+            "model": "slabcraft:verticle_slab/front/oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4740550928891736
+            },
+            "model": "slabcraft:verticle_slab/front/oak_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4746957078795644
+            },
+            "model": "slabcraft:verticle_slab/front/oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.47533632286995514
+            },
+            "model": "slabcraft:verticle_slab/front/obsidian"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.47597693786034595
+            },
+            "model": "slabcraft:verticle_slab/front/orange_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4766175528507367
+            },
+            "model": "slabcraft:verticle_slab/front/orange_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.47725816784112746
+            },
+            "model": "slabcraft:verticle_slab/front/orange_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.47789878283151827
+            },
+            "model": "slabcraft:verticle_slab/front/orange_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.478539397821909
+            },
+            "model": "slabcraft:verticle_slab/front/orange_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4791800128122998
+            },
+            "model": "slabcraft:verticle_slab/front/orange_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4798206278026906
+            },
+            "model": "slabcraft:verticle_slab/front/packed_ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.48046124279308133
+            },
+            "model": "slabcraft:verticle_slab/front/pink_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.48110185778347214
+            },
+            "model": "slabcraft:verticle_slab/front/pink_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4817424727738629
+            },
+            "model": "slabcraft:verticle_slab/front/pink_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4823830877642537
+            },
+            "model": "slabcraft:verticle_slab/front/pink_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.48302370275464446
+            },
+            "model": "slabcraft:verticle_slab/front/pink_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4836643177450352
+            },
+            "model": "slabcraft:verticle_slab/front/pink_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.484304932735426
+            },
+            "model": "slabcraft:verticle_slab/front/polished_andesite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4849455477258168
+            },
+            "model": "slabcraft:verticle_slab/front/polished_diorite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4855861627162076
+            },
+            "model": "slabcraft:verticle_slab/front/polished_granite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.48622677770659833
+            },
+            "model": "slabcraft:verticle_slab/front/prismarine"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4868673926969891
+            },
+            "model": "slabcraft:verticle_slab/front/prismarine_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4875080076873799
+            },
+            "model": "slabcraft:verticle_slab/front/pumpkin"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.48814862267777065
+            },
+            "model": "slabcraft:verticle_slab/front/purple_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.48878923766816146
+            },
+            "model": "slabcraft:verticle_slab/front/purple_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4894298526585522
+            },
+            "model": "slabcraft:verticle_slab/front/purple_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.49007046764894296
+            },
+            "model": "slabcraft:verticle_slab/front/purple_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4907110826393338
+            },
+            "model": "slabcraft:verticle_slab/front/purple_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4913516976297245
+            },
+            "model": "slabcraft:verticle_slab/front/purple_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.49199231262011534
+            },
+            "model": "slabcraft:verticle_slab/front/purpur_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4926329276105061
+            },
+            "model": "slabcraft:verticle_slab/front/purpur_pillar"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.49327354260089684
+            },
+            "model": "slabcraft:verticle_slab/front/quartz_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.49391415759128765
+            },
+            "model": "slabcraft:verticle_slab/front/quartz_pillar"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4945547725816784
+            },
+            "model": "slabcraft:verticle_slab/front/red_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4951953875720692
+            },
+            "model": "slabcraft:verticle_slab/front/red_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.49583600256245997
+            },
+            "model": "slabcraft:verticle_slab/front/red_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4964766175528507
+            },
+            "model": "slabcraft:verticle_slab/front/red_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4971172325432415
+            },
+            "model": "slabcraft:verticle_slab/front/red_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4977578475336323
+            },
+            "model": "slabcraft:verticle_slab/front/red_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4983984625240231
+            },
+            "model": "slabcraft:verticle_slab/front/red_mushroom_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.49903907751441384
+            },
+            "model": "slabcraft:verticle_slab/front/red_nether_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.4996796925048046
+            },
+            "model": "slabcraft:verticle_slab/front/red_sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5003203074951954
+            },
+            "model": "slabcraft:verticle_slab/front/red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5009609224855862
+            },
+            "model": "slabcraft:verticle_slab/front/redstone_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5016015374759769
+            },
+            "model": "slabcraft:verticle_slab/front/redstone_lamp"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5022421524663677
+            },
+            "model": "slabcraft:verticle_slab/front/redstone_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5028827674567585
+            },
+            "model": "slabcraft:verticle_slab/front/repeating_command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5035233824471492
+            },
+            "model": "slabcraft:verticle_slab/front/repeating_command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.50416399743754
+            },
+            "model": "slabcraft:verticle_slab/front/sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5048046124279308
+            },
+            "model": "slabcraft:verticle_slab/front/sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5054452274183215
+            },
+            "model": "slabcraft:verticle_slab/front/sea_lantern"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5060858424087123
+            },
+            "model": "slabcraft:verticle_slab/front/slime_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5067264573991032
+            },
+            "model": "slabcraft:verticle_slab/front/smooth_quartz"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.507367072389494
+            },
+            "model": "slabcraft:verticle_slab/front/smooth_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5080076873798847
+            },
+            "model": "slabcraft:verticle_slab/front/smooth_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5086483023702755
+            },
+            "model": "slabcraft:verticle_slab/front/smooth_stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5092889173606663
+            },
+            "model": "slabcraft:verticle_slab/front/snow_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.509929532351057
+            },
+            "model": "slabcraft:verticle_slab/front/soul_sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5105701473414478
+            },
+            "model": "slabcraft:verticle_slab/front/spawner"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5112107623318386
+            },
+            "model": "slabcraft:verticle_slab/front/sponge"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5118513773222293
+            },
+            "model": "slabcraft:verticle_slab/front/spruce_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5124919923126201
+            },
+            "model": "slabcraft:verticle_slab/front/spruce_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5131326073030109
+            },
+            "model": "slabcraft:verticle_slab/front/spruce_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5137732222934016
+            },
+            "model": "slabcraft:verticle_slab/front/stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5144138372837924
+            },
+            "model": "slabcraft:verticle_slab/front/stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5150544522741832
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_acacia_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.515695067264574
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_acacia_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5163356822549647
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_birch_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5169762972453555
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_birch_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5176169122357464
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_dark_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.518257527226137
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_dark_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5188981422165279
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_jungle_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5195387572069187
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_jungle_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5201793721973094
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5208199871877002
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.521460602178091
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_spruce_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5221012171684818
+            },
+            "model": "slabcraft:verticle_slab/front/stripped_spruce_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5227418321588725
+            },
+            "model": "slabcraft:verticle_slab/front/structure_block_corner"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5233824471492633
+            },
+            "model": "slabcraft:verticle_slab/front/structure_block_data"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5240230621396541
+            },
+            "model": "slabcraft:verticle_slab/front/structure_block_load"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5246636771300448
+            },
+            "model": "slabcraft:verticle_slab/front/structure_block_save"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5253042921204356
+            },
+            "model": "slabcraft:verticle_slab/front/tnt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5259449071108264
+            },
+            "model": "slabcraft:verticle_slab/front/tube_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5265855221012171
+            },
+            "model": "slabcraft:verticle_slab/front/wet_sponge"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5272261370916079
+            },
+            "model": "slabcraft:verticle_slab/front/white_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5278667520819987
+            },
+            "model": "slabcraft:verticle_slab/front/white_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5285073670723895
+            },
+            "model": "slabcraft:verticle_slab/front/white_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5291479820627802
+            },
+            "model": "slabcraft:verticle_slab/front/white_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.529788597053171
+            },
+            "model": "slabcraft:verticle_slab/front/white_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5304292120435619
+            },
+            "model": "slabcraft:verticle_slab/front/white_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5310698270339526
+            },
+            "model": "slabcraft:verticle_slab/front/yellow_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5317104420243434
+            },
+            "model": "slabcraft:verticle_slab/front/yellow_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5323510570147342
+            },
+            "model": "slabcraft:verticle_slab/front/yellow_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5329916720051249
+            },
+            "model": "slabcraft:verticle_slab/front/yellow_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5336322869955157
+            },
+            "model": "slabcraft:verticle_slab/front/yellow_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5342729019859065
+            },
+            "model": "slabcraft:verticle_slab/front/yellow_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5771941063420885
+            },
+            "model": "slabcraft:verticle_slab/back/acacia_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5778347213324792
+            },
+            "model": "slabcraft:verticle_slab/back/acacia_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.57847533632287
+            },
+            "model": "slabcraft:verticle_slab/back/acacia_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5791159513132608
+            },
+            "model": "slabcraft:verticle_slab/back/andesite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5797565663036515
+            },
+            "model": "slabcraft:verticle_slab/back/bedrock"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5803971812940423
+            },
+            "model": "slabcraft:verticle_slab/back/birch_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5810377962844331
+            },
+            "model": "slabcraft:verticle_slab/back/birch_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5816784112748238
+            },
+            "model": "slabcraft:verticle_slab/back/birch_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5823190262652146
+            },
+            "model": "slabcraft:verticle_slab/back/black_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5829596412556054
+            },
+            "model": "slabcraft:verticle_slab/back/black_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5836002562459962
+            },
+            "model": "slabcraft:verticle_slab/back/black_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5842408712363869
+            },
+            "model": "slabcraft:verticle_slab/back/black_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5848814862267777
+            },
+            "model": "slabcraft:verticle_slab/back/black_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5855221012171685
+            },
+            "model": "slabcraft:verticle_slab/back/black_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5861627162075592
+            },
+            "model": "slabcraft:verticle_slab/back/blue_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.58680333119795
+            },
+            "model": "slabcraft:verticle_slab/back/blue_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5874439461883408
+            },
+            "model": "slabcraft:verticle_slab/back/blue_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5880845611787315
+            },
+            "model": "slabcraft:verticle_slab/back/blue_ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5887251761691223
+            },
+            "model": "slabcraft:verticle_slab/back/blue_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5893657911595132
+            },
+            "model": "slabcraft:verticle_slab/back/blue_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.590006406149904
+            },
+            "model": "slabcraft:verticle_slab/back/blue_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5906470211402947
+            },
+            "model": "slabcraft:verticle_slab/back/bone_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5912876361306855
+            },
+            "model": "slabcraft:verticle_slab/back/bookshelf"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5919282511210763
+            },
+            "model": "slabcraft:verticle_slab/back/brain_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.592568866111467
+            },
+            "model": "slabcraft:verticle_slab/back/bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5932094811018578
+            },
+            "model": "slabcraft:verticle_slab/back/brown_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5938500960922486
+            },
+            "model": "slabcraft:verticle_slab/back/brown_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5944907110826393
+            },
+            "model": "slabcraft:verticle_slab/back/brown_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5951313260730301
+            },
+            "model": "slabcraft:verticle_slab/back/brown_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5957719410634209
+            },
+            "model": "slabcraft:verticle_slab/back/brown_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5964125560538116
+            },
+            "model": "slabcraft:verticle_slab/back/brown_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5970531710442024
+            },
+            "model": "slabcraft:verticle_slab/back/brown_mushroom_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5976937860345932
+            },
+            "model": "slabcraft:verticle_slab/back/bubble_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.598334401024984
+            },
+            "model": "slabcraft:verticle_slab/back/carved_pumpkin"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5989750160153747
+            },
+            "model": "slabcraft:verticle_slab/back/chain_command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.5996156310057655
+            },
+            "model": "slabcraft:verticle_slab/back/chain_command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6002562459961563
+            },
+            "model": "slabcraft:verticle_slab/back/chiseled_quartz_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.600896860986547
+            },
+            "model": "slabcraft:verticle_slab/back/chiseled_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6015374759769379
+            },
+            "model": "slabcraft:verticle_slab/back/chiseled_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6021780909673287
+            },
+            "model": "slabcraft:verticle_slab/back/chiseled_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6028187059577194
+            },
+            "model": "slabcraft:verticle_slab/back/clay"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6034593209481102
+            },
+            "model": "slabcraft:verticle_slab/back/coal_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.604099935938501
+            },
+            "model": "slabcraft:verticle_slab/back/coal_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6047405509288918
+            },
+            "model": "slabcraft:verticle_slab/back/coarse_dirt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6053811659192825
+            },
+            "model": "slabcraft:verticle_slab/back/cobblestone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6060217809096733
+            },
+            "model": "slabcraft:verticle_slab/back/command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6066623959000641
+            },
+            "model": "slabcraft:verticle_slab/back/command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6073030108904548
+            },
+            "model": "slabcraft:verticle_slab/back/cracked_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6079436258808456
+            },
+            "model": "slabcraft:verticle_slab/back/crafting_table"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6085842408712364
+            },
+            "model": "slabcraft:verticle_slab/back/cut_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6092248558616271
+            },
+            "model": "slabcraft:verticle_slab/back/cut_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6098654708520179
+            },
+            "model": "slabcraft:verticle_slab/back/cyan_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6105060858424087
+            },
+            "model": "slabcraft:verticle_slab/back/cyan_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6111467008327995
+            },
+            "model": "slabcraft:verticle_slab/back/cyan_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6117873158231902
+            },
+            "model": "slabcraft:verticle_slab/back/cyan_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.612427930813581
+            },
+            "model": "slabcraft:verticle_slab/back/cyan_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6130685458039719
+            },
+            "model": "slabcraft:verticle_slab/back/cyan_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6137091607943626
+            },
+            "model": "slabcraft:verticle_slab/back/dark_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6143497757847534
+            },
+            "model": "slabcraft:verticle_slab/back/dark_oak_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6149903907751442
+            },
+            "model": "slabcraft:verticle_slab/back/dark_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6156310057655349
+            },
+            "model": "slabcraft:verticle_slab/back/dark_prismarine"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6162716207559257
+            },
+            "model": "slabcraft:verticle_slab/back/dead_brain_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6169122357463165
+            },
+            "model": "slabcraft:verticle_slab/back/dead_bubble_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6175528507367073
+            },
+            "model": "slabcraft:verticle_slab/back/dead_fire_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.618193465727098
+            },
+            "model": "slabcraft:verticle_slab/back/dead_horn_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6188340807174888
+            },
+            "model": "slabcraft:verticle_slab/back/dead_tube_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6194746957078796
+            },
+            "model": "slabcraft:verticle_slab/back/diamond_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6201153106982703
+            },
+            "model": "slabcraft:verticle_slab/back/diamond_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6207559256886611
+            },
+            "model": "slabcraft:verticle_slab/back/diorite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6213965406790519
+            },
+            "model": "slabcraft:verticle_slab/back/dirt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6220371556694426
+            },
+            "model": "slabcraft:verticle_slab/back/emerald_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6226777706598334
+            },
+            "model": "slabcraft:verticle_slab/back/emerald_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6233183856502242
+            },
+            "model": "slabcraft:verticle_slab/back/end_stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6239590006406149
+            },
+            "model": "slabcraft:verticle_slab/back/end_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6245996156310057
+            },
+            "model": "slabcraft:verticle_slab/back/fire_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6252402306213966
+            },
+            "model": "slabcraft:verticle_slab/back/furnace"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6258808456117874
+            },
+            "model": "slabcraft:verticle_slab/back/glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6265214606021781
+            },
+            "model": "slabcraft:verticle_slab/back/glowstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6271620755925689
+            },
+            "model": "slabcraft:verticle_slab/back/gold_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6278026905829597
+            },
+            "model": "slabcraft:verticle_slab/back/gold_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6284433055733504
+            },
+            "model": "slabcraft:verticle_slab/back/granite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6290839205637412
+            },
+            "model": "slabcraft:verticle_slab/back/grass_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.629724535554132
+            },
+            "model": "slabcraft:verticle_slab/back/grass_path"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6303651505445227
+            },
+            "model": "slabcraft:verticle_slab/back/gravel"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6310057655349135
+            },
+            "model": "slabcraft:verticle_slab/back/gray_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6316463805253043
+            },
+            "model": "slabcraft:verticle_slab/back/gray_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6322869955156951
+            },
+            "model": "slabcraft:verticle_slab/back/gray_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6329276105060858
+            },
+            "model": "slabcraft:verticle_slab/back/gray_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6335682254964766
+            },
+            "model": "slabcraft:verticle_slab/back/gray_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6342088404868674
+            },
+            "model": "slabcraft:verticle_slab/back/gray_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6348494554772581
+            },
+            "model": "slabcraft:verticle_slab/back/green_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6354900704676489
+            },
+            "model": "slabcraft:verticle_slab/back/green_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6361306854580397
+            },
+            "model": "slabcraft:verticle_slab/back/green_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6367713004484304
+            },
+            "model": "slabcraft:verticle_slab/back/green_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6374119154388213
+            },
+            "model": "slabcraft:verticle_slab/back/green_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6380525304292121
+            },
+            "model": "slabcraft:verticle_slab/back/green_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6386931454196029
+            },
+            "model": "slabcraft:verticle_slab/back/hay_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6393337604099936
+            },
+            "model": "slabcraft:verticle_slab/back/horn_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6399743754003844
+            },
+            "model": "slabcraft:verticle_slab/back/ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6406149903907752
+            },
+            "model": "slabcraft:verticle_slab/back/iron_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6412556053811659
+            },
+            "model": "slabcraft:verticle_slab/back/iron_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6418962203715567
+            },
+            "model": "slabcraft:verticle_slab/back/jukebox"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6425368353619475
+            },
+            "model": "slabcraft:verticle_slab/back/jungle_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6431774503523382
+            },
+            "model": "slabcraft:verticle_slab/back/jungle_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.643818065342729
+            },
+            "model": "slabcraft:verticle_slab/back/jungle_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6444586803331198
+            },
+            "model": "slabcraft:verticle_slab/back/lapis_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6450992953235106
+            },
+            "model": "slabcraft:verticle_slab/back/lapis_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6457399103139013
+            },
+            "model": "slabcraft:verticle_slab/back/light_blue_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6463805253042921
+            },
+            "model": "slabcraft:verticle_slab/back/light_blue_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6470211402946829
+            },
+            "model": "slabcraft:verticle_slab/back/light_blue_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6476617552850736
+            },
+            "model": "slabcraft:verticle_slab/back/light_blue_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6483023702754644
+            },
+            "model": "slabcraft:verticle_slab/back/light_blue_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6489429852658553
+            },
+            "model": "slabcraft:verticle_slab/back/light_blue_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.649583600256246
+            },
+            "model": "slabcraft:verticle_slab/back/light_gray_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6502242152466368
+            },
+            "model": "slabcraft:verticle_slab/back/light_gray_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6508648302370276
+            },
+            "model": "slabcraft:verticle_slab/back/light_gray_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6515054452274183
+            },
+            "model": "slabcraft:verticle_slab/back/light_gray_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6521460602178091
+            },
+            "model": "slabcraft:verticle_slab/back/light_gray_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6527866752081999
+            },
+            "model": "slabcraft:verticle_slab/back/light_gray_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6534272901985907
+            },
+            "model": "slabcraft:verticle_slab/back/lime_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6540679051889814
+            },
+            "model": "slabcraft:verticle_slab/back/lime_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6547085201793722
+            },
+            "model": "slabcraft:verticle_slab/back/lime_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.655349135169763
+            },
+            "model": "slabcraft:verticle_slab/back/lime_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6559897501601537
+            },
+            "model": "slabcraft:verticle_slab/back/lime_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6566303651505445
+            },
+            "model": "slabcraft:verticle_slab/back/lime_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6572709801409353
+            },
+            "model": "slabcraft:verticle_slab/back/magenta_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.657911595131326
+            },
+            "model": "slabcraft:verticle_slab/back/magenta_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6585522101217168
+            },
+            "model": "slabcraft:verticle_slab/back/magenta_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6591928251121076
+            },
+            "model": "slabcraft:verticle_slab/back/magenta_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6598334401024984
+            },
+            "model": "slabcraft:verticle_slab/back/magenta_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6604740550928891
+            },
+            "model": "slabcraft:verticle_slab/back/magenta_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.66111467008328
+            },
+            "model": "slabcraft:verticle_slab/back/magma_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6617552850736708
+            },
+            "model": "slabcraft:verticle_slab/back/melon"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6623959000640615
+            },
+            "model": "slabcraft:verticle_slab/back/mossy_cobblestone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6630365150544523
+            },
+            "model": "slabcraft:verticle_slab/back/mossy_stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6636771300448431
+            },
+            "model": "slabcraft:verticle_slab/back/nether_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6643177450352338
+            },
+            "model": "slabcraft:verticle_slab/back/netherrack"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6649583600256246
+            },
+            "model": "slabcraft:verticle_slab/back/note_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6655989750160154
+            },
+            "model": "slabcraft:verticle_slab/back/oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6662395900064062
+            },
+            "model": "slabcraft:verticle_slab/back/oak_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6668802049967969
+            },
+            "model": "slabcraft:verticle_slab/back/oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6675208199871877
+            },
+            "model": "slabcraft:verticle_slab/back/obsidian"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6681614349775785
+            },
+            "model": "slabcraft:verticle_slab/back/orange_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6688020499679692
+            },
+            "model": "slabcraft:verticle_slab/back/orange_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.66944266495836
+            },
+            "model": "slabcraft:verticle_slab/back/orange_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6700832799487508
+            },
+            "model": "slabcraft:verticle_slab/back/orange_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6707238949391415
+            },
+            "model": "slabcraft:verticle_slab/back/orange_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6713645099295323
+            },
+            "model": "slabcraft:verticle_slab/back/orange_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6720051249199231
+            },
+            "model": "slabcraft:verticle_slab/back/packed_ice"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.672645739910314
+            },
+            "model": "slabcraft:verticle_slab/back/pink_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6732863549007047
+            },
+            "model": "slabcraft:verticle_slab/back/pink_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6739269698910955
+            },
+            "model": "slabcraft:verticle_slab/back/pink_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6745675848814863
+            },
+            "model": "slabcraft:verticle_slab/back/pink_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.675208199871877
+            },
+            "model": "slabcraft:verticle_slab/back/pink_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6758488148622678
+            },
+            "model": "slabcraft:verticle_slab/back/pink_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6764894298526586
+            },
+            "model": "slabcraft:verticle_slab/back/polished_andesite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6771300448430493
+            },
+            "model": "slabcraft:verticle_slab/back/polished_diorite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6777706598334401
+            },
+            "model": "slabcraft:verticle_slab/back/polished_granite"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6784112748238309
+            },
+            "model": "slabcraft:verticle_slab/back/prismarine"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6790518898142216
+            },
+            "model": "slabcraft:verticle_slab/back/prismarine_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6796925048046124
+            },
+            "model": "slabcraft:verticle_slab/back/pumpkin"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6803331197950032
+            },
+            "model": "slabcraft:verticle_slab/back/purple_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.680973734785394
+            },
+            "model": "slabcraft:verticle_slab/back/purple_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6816143497757847
+            },
+            "model": "slabcraft:verticle_slab/back/purple_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6822549647661755
+            },
+            "model": "slabcraft:verticle_slab/back/purple_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6828955797565663
+            },
+            "model": "slabcraft:verticle_slab/back/purple_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.683536194746957
+            },
+            "model": "slabcraft:verticle_slab/back/purple_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6841768097373478
+            },
+            "model": "slabcraft:verticle_slab/back/purpur_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6848174247277387
+            },
+            "model": "slabcraft:verticle_slab/back/purpur_pillar"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6854580397181294
+            },
+            "model": "slabcraft:verticle_slab/back/quartz_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6860986547085202
+            },
+            "model": "slabcraft:verticle_slab/back/quartz_pillar"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.686739269698911
+            },
+            "model": "slabcraft:verticle_slab/back/red_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6873798846893018
+            },
+            "model": "slabcraft:verticle_slab/back/red_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6880204996796925
+            },
+            "model": "slabcraft:verticle_slab/back/red_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6886611146700833
+            },
+            "model": "slabcraft:verticle_slab/back/red_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6893017296604741
+            },
+            "model": "slabcraft:verticle_slab/back/red_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6899423446508648
+            },
+            "model": "slabcraft:verticle_slab/back/red_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6905829596412556
+            },
+            "model": "slabcraft:verticle_slab/back/red_mushroom_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6912235746316464
+            },
+            "model": "slabcraft:verticle_slab/back/red_nether_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6918641896220371
+            },
+            "model": "slabcraft:verticle_slab/back/red_sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6925048046124279
+            },
+            "model": "slabcraft:verticle_slab/back/red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6931454196028187
+            },
+            "model": "slabcraft:verticle_slab/back/redstone_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6937860345932095
+            },
+            "model": "slabcraft:verticle_slab/back/redstone_lamp"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6944266495836002
+            },
+            "model": "slabcraft:verticle_slab/back/redstone_ore"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.695067264573991
+            },
+            "model": "slabcraft:verticle_slab/back/repeating_command_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6957078795643818
+            },
+            "model": "slabcraft:verticle_slab/back/repeating_command_block_conditional"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6963484945547725
+            },
+            "model": "slabcraft:verticle_slab/back/sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6969891095451634
+            },
+            "model": "slabcraft:verticle_slab/back/sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6976297245355542
+            },
+            "model": "slabcraft:verticle_slab/back/sea_lantern"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6982703395259449
+            },
+            "model": "slabcraft:verticle_slab/back/slime_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6989109545163357
+            },
+            "model": "slabcraft:verticle_slab/back/smooth_quartz"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.6995515695067265
+            },
+            "model": "slabcraft:verticle_slab/back/smooth_red_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7001921844971173
+            },
+            "model": "slabcraft:verticle_slab/back/smooth_sandstone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.700832799487508
+            },
+            "model": "slabcraft:verticle_slab/back/smooth_stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7014734144778988
+            },
+            "model": "slabcraft:verticle_slab/back/snow_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7021140294682896
+            },
+            "model": "slabcraft:verticle_slab/back/soul_sand"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7027546444586803
+            },
+            "model": "slabcraft:verticle_slab/back/spawner"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7033952594490711
+            },
+            "model": "slabcraft:verticle_slab/back/sponge"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7040358744394619
+            },
+            "model": "slabcraft:verticle_slab/back/spruce_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7046764894298526
+            },
+            "model": "slabcraft:verticle_slab/back/spruce_planks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7053171044202434
+            },
+            "model": "slabcraft:verticle_slab/back/spruce_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7059577194106342
+            },
+            "model": "slabcraft:verticle_slab/back/stone"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7065983344010249
+            },
+            "model": "slabcraft:verticle_slab/back/stone_bricks"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7072389493914157
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_acacia_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7078795643818065
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_acacia_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7085201793721974
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_birch_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.709160794362588
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_birch_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7098014093529789
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_dark_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7104420243433697
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_dark_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7110826393337604
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_jungle_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7117232543241512
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_jungle_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.712363869314542
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_oak_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7130044843049327
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_oak_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7136450992953235
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_spruce_log"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7142857142857143
+            },
+            "model": "slabcraft:verticle_slab/back/stripped_spruce_wood"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7149263292761051
+            },
+            "model": "slabcraft:verticle_slab/back/structure_block_corner"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7155669442664958
+            },
+            "model": "slabcraft:verticle_slab/back/structure_block_data"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7162075592568866
+            },
+            "model": "slabcraft:verticle_slab/back/structure_block_load"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7168481742472774
+            },
+            "model": "slabcraft:verticle_slab/back/structure_block_save"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7174887892376681
+            },
+            "model": "slabcraft:verticle_slab/back/tnt"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7181294042280589
+            },
+            "model": "slabcraft:verticle_slab/back/tube_coral_block"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7187700192184497
+            },
+            "model": "slabcraft:verticle_slab/back/wet_sponge"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7194106342088404
+            },
+            "model": "slabcraft:verticle_slab/back/white_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7200512491992312
+            },
+            "model": "slabcraft:verticle_slab/back/white_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7206918641896221
+            },
+            "model": "slabcraft:verticle_slab/back/white_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7213324791800129
+            },
+            "model": "slabcraft:verticle_slab/back/white_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7219730941704036
+            },
+            "model": "slabcraft:verticle_slab/back/white_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7226137091607944
+            },
+            "model": "slabcraft:verticle_slab/back/white_wool"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7232543241511852
+            },
+            "model": "slabcraft:verticle_slab/back/yellow_concrete"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7238949391415759
+            },
+            "model": "slabcraft:verticle_slab/back/yellow_concrete_powder"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7245355541319667
+            },
+            "model": "slabcraft:verticle_slab/back/yellow_glazed_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7251761691223575
+            },
+            "model": "slabcraft:verticle_slab/back/yellow_stained_glass"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.7258167841127482
+            },
+            "model": "slabcraft:verticle_slab/back/yellow_terracotta"
+        }, {
+            "predicate": {
+                "damaged": 0,
+                "damage": 0.726457399103139
+            },
+            "model": "slabcraft:verticle_slab/back/yellow_wool"
+        }, {
+            "predicate": {
+                "damaged": 1
+            },
+            "model": "minecraft:item/diamond_sword_vanilla"
+        }
+    ]
+}
